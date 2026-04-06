@@ -50,7 +50,8 @@ QuickChat is a full-stack, real-time messaging application designed for seamless
 *(Add your high-quality screenshots here to wow your audience!)*
 
 | Login Page | Chat Interface | Profile Settings |
-| :---: | :---: | :---: |
+| <img width="1919" height="871" alt="Screenshot 2026-04-06 144738" src="https://github.com/user-attachments/assets/72f6e566-cac0-4621-a4bd-ed89dd83df35" />
+ | :---: | :---: |
 | ![Login](https://via.placeholder.com/300x200?text=Login+Page) | ![Chat](https://via.placeholder.com/300x200?text=Chat+Interface) | ![Profile](https://via.placeholder.com/300x200?text=Profile+Settings) |
 
 ---
