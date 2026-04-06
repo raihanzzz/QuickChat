@@ -10,7 +10,7 @@ const App = () => {
   const {authUser} = useContext(AuthContext)
   return (
     // use cover/center so the bg spans the full viewport without gaps
-    <div className="bg-[url('./src/assets/raihan_background.avif')] bg-cover bg-center bg-no-repeat">
+    <div className="bg-[url('/bgImage.avif')] bg-cover bg-center bg-no-repeat">
       <Toaster/>
       <Routes>
         <Route path='/' element={authUser ? <HomePage /> : <Navigate to="/login" />}/>
