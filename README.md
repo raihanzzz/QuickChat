@@ -48,16 +48,16 @@ QuickChat is a full-stack, real-time messaging application designed for seamless
 ## 📸 Screenshots
 
 | Sign Up |
-| <img width="1919" height="871" alt="Screenshot 2026-04-06 144738" src="https://github.com/user-attachments/assets/72f6e566-cac0-4621-a4bd-ed89dd83df35" /> |
+<img width="1919" height="871" alt="Screenshot 2026-04-06 144738" src="https://github.com/user-attachments/assets/72f6e566-cac0-4621-a4bd-ed89dd83df35" />
 
 | Login |
-| <img width="1356" height="635" alt="Screenshot 2026-04-06 144751" src="https://github.com/user-attachments/assets/9ddb5753-c70d-4099-a794-97c49cb9474e" /> |
+<img width="1356" height="635" alt="Screenshot 2026-04-06 144751" src="https://github.com/user-attachments/assets/9ddb5753-c70d-4099-a794-97c49cb9474e" />
 
 | Chat Interface |
-| <img width="1919" height="879" alt="Screenshot 2026-04-06 144654" src="https://github.com/user-attachments/assets/e6891576-c1f4-4794-8641-6e56caa4f9dc" /> |
+<img width="1919" height="879" alt="Screenshot 2026-04-06 144654" src="https://github.com/user-attachments/assets/e6891576-c1f4-4794-8641-6e56caa4f9dc" />
 
 | Edit Profile |
-| <img width="1919" height="881" alt="Screenshot 2026-04-06 144709" src="https://github.com/user-attachments/assets/4f2a494a-e5ad-4acc-9b8e-225db1b71589" /> |
+<img width="1919" height="881" alt="Screenshot 2026-04-06 144709" src="https://github.com/user-attachments/assets/4f2a494a-e5ad-4acc-9b8e-225db1b71589" />
 
 ---
 
